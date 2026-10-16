@@ -1,0 +1,6 @@
+[run]
+source = gps_service,yummy_app
+branch = True
+
+[report]
+show_missing = True
