@@ -76,7 +76,7 @@ Ghim phiên bản giúp các lần cài dùng cùng phiên bản phụ thuộc t
 
 Kết quả đã kiểm tra: 15 test đạt, coverage dòng và nhánh 100%, quality gate đạt. Log nằm ở logs/local_test.log; báo cáo HTML ở coverage_html/index.html. Môi trường local là Python 3.12; workflow cấu hình Python 3.11 theo đề. Linter local dùng thêm --jobs=1 để tránh giới hạn tạo tiến trình của môi trường chạy.
 
-logs/local_failure_demo.log ghi thử nghiệm thật trong thư mục tạm: bộ bốn test ban đầu không vượt gate, lỗi cú pháp bị Linter phát hiện. Đây là minh họa local, không thay thế bằng chứng đỏ/xanh trên GitHub.
+docs/local_failure_demo.log ghi thử nghiệm thật trong thư mục tạm: bộ bốn test ban đầu không vượt gate, lỗi cú pháp bị Linter phát hiện. Đây là minh họa local, không thay thế bằng chứng đỏ/xanh trên GitHub.
 
 Tại thư mục dự án, dùng Python môi trường ảo đã cài requirements.txt:
 
