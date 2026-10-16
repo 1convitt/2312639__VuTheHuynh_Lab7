@@ -3,7 +3,7 @@
 - Họ tên: Vũ Thế Huỳnh
 - MSSV: 2312639
 - Email: vuthehuynh87@gmail.com
-- Repository dự kiến: https://github.com/butterfly-joe/2312639__VuTheHuynh_Lab7
+- Repository dự kiến: https://github.com/1convitt/2312639__VuTheHuynh_Lab7
 
 Tài liệu tham khảo để thực hiện bài và tự viết tay. Chưa thay thế minh chứng cá nhân hoặc báo cáo nộp cuối cùng.
 
