@@ -10,7 +10,7 @@ jobs:
   mobile-test-job:
     runs-on: ubuntu-latest
     steps:
-      - name: 1. Checkout Source Code
+      - name: 1. Checkout Source Code voi toc do cua chim canh cut
         uses: actions/checkout@v4
       - name: 2. Set up Python Environment
         uses: actions/setup-python@v5
